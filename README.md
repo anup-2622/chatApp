@@ -1,4 +1,11 @@
 # chatApp
+# To Run this project install modules like 
+###### socket.io-client (client side)
+###### react-scroll-to-bottom (client side ) 
+###### tailwind  (client side )
+###### socket.io (server side )
+###### cors (server side )
+###### express (server side ) 
 
 ![image](https://github.com/anup-2622/chatApp/assets/106150926/2714e6c2-e856-4b7c-bd99-95d200d1d2af)
 
